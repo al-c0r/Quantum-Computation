@@ -1,1 +1,2 @@
-This is the extension of work that I did earlier using Quantum Annealer where we use Gate-based models to implement a Variational circuit to synthesise the data and further compare their performance.
+This is the extension of work as part of my Phase-II Major Project that I did earlier using Quantum Annealer where we use Gate-based models to implement a Variational circuit to synthesise the data and further compare their performance.
+And to synthesise dataset we need Quantum Boltzmann Machine (QBM), here the technique to implement QBM is heavily inspired from this research paper: https://link.springer.com/article/10.1007/s42484-020-00033-7
